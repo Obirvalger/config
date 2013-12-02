@@ -1,0 +1,1 @@
+/home/ogneslav/yadisk/config/vimrc
