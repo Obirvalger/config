@@ -1,0 +1,1 @@
+/home/ogneslav/yadisk/prog/autostart.sh
